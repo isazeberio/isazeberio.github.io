@@ -1,0 +1,30 @@
+---
+title: Work
+---
+
+## Working Papers
+
+* The Mediating Effect of Interpersonal Communication on Media Influence: An Agent-Based Approach of Brexit Opinion Formation in London ***(together with Iñaki Úcar and Theresa Kuhn)***
+
+-----
+
+## Teaching Experience
+
+* [Multilevel Politics in the European Union and its Member States](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/116228)
+
+
+----
+
+## Conferences
+
+* Zeberio Aguerrevere, I. (2023, noviembre 3). Conditional Effect of Media and Interpersonal Communication: An Agent-Based Approach to Opinion Formation on Brexit in London. ODISSEI Conference for Social Sciences in the Netherlands (OCSSN), Utrecht. Zenodo. [https://doi.org/10.5281/zenodo.10068798](https://zenodo.org/records/10068798)
+
+* 12th Biennial Conference of the ECPR Standing Group on the European Union
+19 – 21 June 2024, Universidade NOVA
+
+* 14th Annual Conference of the European Political Science Association, 4-6 July 2024, Köln 
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+</div>
+```

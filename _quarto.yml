@@ -1,0 +1,76 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "Home"  # Your name
+  description: ""   # A brief slogan (optional)
+  image: img/profile_photo.jpg
+  
+  favicon: img/europe-map.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /img/europe-map.png
+    
+    # your sub-pages
+    left:
+      - text: "Work"
+        href: work/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+    
+    # your social media handles
+    right:
+      - icon: fingerprint
+        href: https://www.eudentify.eu/
+      - icon: twitter
+        href: https://x.com/isazeberio
+      - icon: linkedin
+        href: https://www.linkedin.com/in/isabela-zeberio-aguerrevere-b46460227/
+      - icon: github
+        href: https://github.com/isazeberio
+      - icon: envelope
+        aria-label: email
+        href: "mailto:i.zeberioaguerrevere@uva.nl"  
+
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+
+    center: |
+
+    right: |
+
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss 
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true    
