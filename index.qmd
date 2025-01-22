@@ -4,8 +4,8 @@ about:
   id: about-block
   image: "img/profile-photo.jpg"
   links:
-    - icon: fingerprint 
-      href: https://www.eudentify.eu/
+   # - icon: fingerprint 
+      #href: https://www.eudentify.eu/
     - icon: twitter
       text: Twitter
       href: https://x.com/isazeberio
