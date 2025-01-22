@@ -22,8 +22,8 @@ website:
     
     # your social media handles
     right:
-      - icon: fingerprint
-        href: https://www.eudentify.eu/
+     # - icon: fingerprint
+     #   href: https://www.eudentify.eu/
       - icon: twitter
         href: https://x.com/isazeberio
       - icon: linkedin
