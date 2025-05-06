@@ -1430,6 +1430,7 @@ url("./bootstrap-icons.woff?2ab2cbbe07fcebb53bdaa7313bb290f2") format("woff");
 .bi-bandaid-fill::before { content: "\f680"; }
 .bi-bandaid::before { content: "\f681"; }
 .bi-bluetooth::before { content: "\f682"; }
+.bi-bluesky::before { content: "\f7f9"; }
 .bi-body-text::before { content: "\f683"; }
 .bi-boombox::before { content: "\f684"; }
 .bi-boxes::before { content: "\f685"; }

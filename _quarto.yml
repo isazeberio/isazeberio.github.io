@@ -22,10 +22,10 @@ website:
     
     # your social media handles
     right:
-     # - icon: fingerprint
-     #   href: https://www.eudentify.eu/
-      - icon: twitter
-        href: https://x.com/isazeberio
+      - icon: fingerprint
+        href: https://www.eudentify.org/
+      - icon: bluesky
+        href: https://bsky.app/profile/isazeberio.bsky.social
       - icon: linkedin
         href: https://www.linkedin.com/in/isabela-zeberio-aguerrevere-b46460227/
       - icon: github

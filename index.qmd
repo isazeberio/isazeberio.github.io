@@ -4,11 +4,11 @@ about:
   id: about-block
   image: "img/profile-photo.jpg"
   links:
-   # - icon: fingerprint 
-      #href: https://www.eudentify.eu/
-    - icon: twitter
-      text: Twitter
-      href: https://x.com/isazeberio
+    - icon: fingerprint 
+      href: https://www.eudentify.org/
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/isazeberio.bsky.social
     - icon: github
       text: Github
       href: https://github.com/isazeberio
