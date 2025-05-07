@@ -2,9 +2,16 @@
 title: Work
 ---
 
-## Working Papers
+## Work in Progress
 
-* The Mediating Effect of Interpersonal Communication on Media Influence: An Agent-Based Approach of Brexit Opinion Formation in London ***(together with Iñaki Úcar and Theresa Kuhn)***
+* Filtering out Euroscepticism: Modeling Media Influence and Interpersonal Communication in an Agent-
+Based Model of Brexit Opinion Dynamics in London ***(together with Iñaki Úcar and Theresa Kuhn)***
+
+* What does it take to be European: A Conjoint Experiment on the Subjective Perception of “Europeanness”
+ ***(together with Theresa Kuhn and Armin Seimel)***
+
+* Between Inclusion and Exclusion: How European Identity Shapes Preferences for Intra-EU Border and
+Migration Policies ***(together with Lisa Herbig and Theresa Kuhn)***
 
 -----
 
@@ -17,12 +24,11 @@ title: Work
 
 ## Conferences
 
-* Zeberio Aguerrevere, I. (2023, noviembre 3). Conditional Effect of Media and Interpersonal Communication: An Agent-Based Approach to Opinion Formation on Brexit in London. ODISSEI Conference for Social Sciences in the Netherlands (OCSSN), Utrecht. Zenodo. [https://doi.org/10.5281/zenodo.10068798](https://zenodo.org/records/10068798)
+* 2025, 2024 European Political Science Association (EPSA)
+* 2025 European Union Studies Association (EUSA)
+* 2024 ECPR Standing Group on the European Union (ECPR-SGEU)
+* 2023 ODISSEI Conference for Social Sciences in the Netherlands (OCSSN)
 
-* 12th Biennial Conference of the ECPR Standing Group on the European Union
-19 – 21 June 2024, Universidade NOVA
-
-* 14th Annual Conference of the European Political Science Association, 4-6 July 2024, Köln 
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
