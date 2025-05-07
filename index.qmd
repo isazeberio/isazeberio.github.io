@@ -5,6 +5,7 @@ about:
   image: "img/profile-photo.jpg"
   links:
     - icon: fingerprint 
+      text: Eudentify
       href: https://www.eudentify.org/
     - icon: globe-europe-africa
       text: Bluesky
