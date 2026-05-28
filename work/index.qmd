@@ -1,11 +1,14 @@
 ---
-title: Work
+title: Research
 ---
 
-## Work in Progress
+## Publications
 
-* Filtering out Euroscepticism: Modeling Media Influence and Interpersonal Communication in an Agent-
-Based Model of Brexit Opinion Dynamics in London ***(together with Iñaki Úcar and Theresa Kuhn)***
+* Zeberio, I., Kuhn, T., & Ucar, I. (2026). Filtering out Euroskepticism: Media influence and interpersonal communication in an agent-based model of Brexit opinion dynamics. *European Union Politics*. OnlineFirst. [https://doi.org/10.1177/14651165261424664](https://doi.org/10.1177/14651165261424664)
+
+-----
+
+## Work in Progress
 
 * What does it take to be European: A Conjoint Experiment on the Subjective Perception of “Europeanness”
  ***(together with Theresa Kuhn and Armin Seimel)***

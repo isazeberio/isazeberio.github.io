@@ -13,7 +13,7 @@ website:
     
     # your sub-pages
     left:
-      - text: "Work"
+      - text: "Research"
         href: work/index.qmd
       - text: "CV"
         href: cv/index.qmd
