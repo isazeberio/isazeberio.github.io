@@ -8,3 +8,7 @@ vendor/
 .Rproj.user
 
 /.quarto/
+
+# macOS
+.DS_Store
+**/.DS_Store
