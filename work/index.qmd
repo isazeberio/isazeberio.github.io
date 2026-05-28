@@ -4,17 +4,25 @@ title: Research
 
 ## Publications
 
-* Zeberio, I., Kuhn, T., & Ucar, I. (2026). Filtering out Euroskepticism: Media influence and interpersonal communication in an agent-based model of Brexit opinion dynamics. *European Union Politics*. OnlineFirst. [https://doi.org/10.1177/14651165261424664](https://doi.org/10.1177/14651165261424664)
+* **Zeberio, I.**, Kuhn, T., & Ucar, I. (2026). Filtering out Euroskepticism: Media influence and interpersonal communication in an agent-based model of Brexit opinion dynamics. *European Union Politics*. OnlineFirst. [https://doi.org/10.1177/14651165261424664](https://doi.org/10.1177/14651165261424664)
+
+-----
+
+## Book Reviews
+
+* Zeberio, I. (2025). Transregional Europe by William Outhwaite (Bingley: Emerald Publishing Limited, 2020, ISBN: 978-1-78769-494-1); 152 pp. *JCMS: Journal of Common Market Studies*. [https://doi.org/10.1111/jcms.13729](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13729)
 
 -----
 
 ## Work in Progress
 
-* What does it take to be European: A Conjoint Experiment on the Subjective Perception of “Europeanness”
- ***(together with Theresa Kuhn and Armin Seimel)***
+* What does it take to be European? Conceptions of Europeanness and their political consequences among German citizens *(together with Theresa Kuhn)*
 
-* Between Inclusion and Exclusion: How European Identity Shapes Preferences for Intra-EU Border and
-Migration Policies ***(together with Lisa Herbig and Theresa Kuhn)***
+* Who counts as European? A conjoint experiment on European membership criteria *(together with Theresa Kuhn)*
+
+* Between inclusion and exclusion: How European identity shapes preferences for intra-EU border and migration policies *(together with Lisa Herbig and Theresa Kuhn)*
+
+* The 'Good' European: The limits of civic inclusion
 
 -----
 
@@ -22,8 +30,7 @@ Migration Policies ***(together with Lisa Herbig and Theresa Kuhn)***
 
 * [Multilevel Politics in the European Union and its Member States](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/116228)
 
-
-----
+-----
 
 ## Conferences
 
@@ -32,8 +39,7 @@ Migration Policies ***(together with Lisa Herbig and Theresa Kuhn)***
 * 2024 ECPR Standing Group on the European Union (ECPR-SGEU)
 * 2023 ODISSEI Conference for Social Sciences in the Netherlands (OCSSN)
 
-
 ```{=html}
-<div  style="margin: 30px; text-align: center;">
+<div style="margin: 30px; text-align: center;">
 </div>
 ```
