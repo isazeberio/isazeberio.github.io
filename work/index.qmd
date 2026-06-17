@@ -16,7 +16,7 @@ title: Research
 
 ## Work in Progress
 
-* What does it take to be European? Conceptions of Europeanness and their political consequences among German citizens *(together with Theresa Kuhn)*
+* What does it take to be European? Conceptions of Europeanness and their political consequences among German citizens *(together with Theresa Kuhn)* [[slides]](../talks/conceptions-europeanness/europeanness_talk.html){target="_blank"}
 
 * Who counts as European? A conjoint experiment on European membership criteria *(together with Theresa Kuhn)*
 
