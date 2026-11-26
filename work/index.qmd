@@ -4,7 +4,7 @@ title: Research
 
 ## Publications
 
-* **Zeberio, I.**, Kuhn, T., & Ucar, I. (2026). Filtering out Euroskepticism: Media influence and interpersonal communication in an agent-based model of Brexit opinion dynamics. *European Union Politics*. OnlineFirst. [https://doi.org/10.1177/14651165261424664](https://doi.org/10.1177/14651165261424664)
+* **Zeberio, I.**, Kuhn, T., & Ucar, I. (2026). Filtering out Euroskepticism: Media influence and interpersonal communication in an agent-based model of Brexit opinion dynamics. *European Union Politics*. OnlineFirst. [https://doi.org/10.1177/14651165261424664](https://doi.org/10.1177/14651165261424664) [[replication code]](https://github.com/isazeberio/filtering-out-euroskepticism){target="_blank"}
 
 -----
 
