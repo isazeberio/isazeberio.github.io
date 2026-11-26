@@ -26,6 +26,12 @@ title: Research
 
 -----
 
+## Talks
+
+* Spain votes again: The road to the 29 November 2026 general election (University of Amsterdam, 26 November 2026) [[slides]](../talks/spain-votes-again/spain_votes_again.html){target="_blank"}
+
+-----
+
 ## Teaching Experience
 
 * [Multilevel Politics in the European Union and its Member States](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/116228)
