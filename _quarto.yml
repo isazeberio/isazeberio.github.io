@@ -2,7 +2,7 @@
 website:
   title: "Isabela Zeberio"
   description: "Isabela Zeberio, PhD candidate in political science at the University of Amsterdam, researching European identity, public opinion and computational social science."
-  site-url: "https://isazeberio.github.io/"
+  site-url: "https://isabelazeberio.com/"
   image: img/profile_photo.jpg
   
   favicon: img/europe-map.png
@@ -51,6 +51,8 @@ website:
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
   preview: 
     port: 22222
