@@ -1,8 +1,11 @@
 /*-- scss:defaults --*/
-@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Fira+Sans+Condensed:wght@600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Fira+Sans+Condensed:wght@600;700;800&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap');
 
 $navy: #10284A;
-$coral: #E4572E;
+$coral: #0F7C8C;
+$teal: #0E5E6F;
+$teal-dark: #0B3F4A;
+$cream: #F3EEE4;
 $gold: #F2B134;
 $ink: #1F2328;
 $slate: #4A525A;
@@ -34,7 +37,7 @@ $presentation-h2-font-size: 1.3em;
 .reveal .big { font-family: "Fira Sans Condensed"; font-weight: 800; line-height: 1; }
 
 /* dividers */
-.reveal .slide-background.divider-bg { background: $navy; }
+
 .reveal section.divider h1, .reveal section.divider h2 { color: #fff !important; font-size: 2.2em; font-weight: 800; line-height: 1.05; }
 .reveal section.divider p { color: #DDE3EC; font-size: .9em; max-width: 62%; }
 .reveal section.divider .part { color: $gold; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; font-size: .55em; }
@@ -45,8 +48,8 @@ $presentation-h2-font-size: 1.3em;
 .reveal .card { background: $mist; border-radius: 12px; padding: 22px 24px; font-size: .62em; line-height: 1.35; }
 .reveal .card h3 { font-size: 1.35em; margin: 0 0 .25em 0; font-weight: 700; }
 .reveal .card .date { color: $coral; font-weight: 700; font-size: .95em; }
-.reveal .card.dark { background: $navy; color: #fff; }
-.reveal .card.dark h3 { color: $gold; }
+.reveal .card.dark { background: $teal-dark; color: #fff; }
+.reveal .card.dark h3 { color: #9FE0EA; }
 
 .reveal .ic { display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; color: #fff; }
 .reveal .ic svg { width: 55%; height: 55%; fill: #fff; }
@@ -110,7 +113,7 @@ $presentation-h2-font-size: 1.3em;
 #rail.off { opacity: 0; }
 #rail .rl-track { position: absolute; left: 0; right: 0; top: 10px; height: 4px; background: #E3E5E8; border-radius: 2px; }
 #rail .rl-fill { position: absolute; left: 0; top: 9px; height: 6px; width: 0; background: $coral; border-radius: 3px; transition: width 1.1s cubic-bezier(.45,.05,.25,1); }
-#rail .rl-dot { position: absolute; top: 3px; width: 18px; height: 18px; margin-left: -9px; border-radius: 50%; background: $coral; box-shadow: 0 0 0 5px rgba(228,87,46,.25); transition: left 1.1s cubic-bezier(.45,.05,.25,1); }
+#rail .rl-dot { position: absolute; top: 3px; width: 18px; height: 18px; margin-left: -9px; border-radius: 50%; background: $coral; box-shadow: 0 0 0 5px rgba(15,124,140,.25); transition: left 1.1s cubic-bezier(.45,.05,.25,1); }
 #rail .rl-lab { position: absolute; left: 50%; top: -24px; transform: translateX(-50%); white-space: nowrap; font-size: 15px; font-weight: 700; color: $coral; }
 #rail .rl-tick { position: absolute; top: 18px; width: 1px; height: 8px; background: #B8BCC2; }
 #rail .rl-tick span { position: absolute; top: 7px; left: 0; transform: translateX(-50%); font-size: 12px; color: #8A8F96; white-space: nowrap; }
@@ -119,7 +122,7 @@ $presentation-h2-font-size: 1.3em;
 #rail.dark .rl-track { background: rgba(255,255,255,.18); }
 #rail.dark .rl-tick { background: rgba(255,255,255,.4); }
 #rail.dark .rl-tick span { color: #AEB9CA; }
-#rail.dark .rl-lab { color: $gold; }
+#rail.dark .rl-lab { color: $cream; }
 #rail.dark .rl-ev:not(.past) { background: rgba(255,255,255,.3); }
 #rail.dark .rl-ev.past { box-shadow: 0 0 0 1.5px rgba(255,255,255,.7); }
 
@@ -175,7 +178,7 @@ $presentation-h2-font-size: 1.3em;
 #rail .rl-tick span { top: 5px; font-size: 13px; }
 #rail .rl-lab { left: 22px; top: -3px; transform: none; font-size: 15px; background: #fff; padding: 0 8px; border-radius: 999px; box-shadow: 0 1px 4px rgba(0,0,0,.12); }
 #rail.flip .rl-lab { left: auto; right: 22px; }
-#rail.dark .rl-lab { background: $navy; box-shadow: none; }
+#rail.dark .rl-lab { background: $teal-dark; box-shadow: none; }
 .reveal .slides > section:not(.divider) { padding-top: 26px !important; }
 .reveal .roomy .card { font-size: .82em; }
 .reveal .roomy .step { font-size: .7em; }
@@ -206,3 +209,21 @@ $presentation-h2-font-size: 1.3em;
 .reveal .rbar div:first-child { border-radius: 6px 0 0 6px; }
 .reveal .rbar i { position: absolute; top: -8px; bottom: -8px; width: 4px; background: #1F2328; }
 .reveal .rgov { font-weight: 700; color: $ink; }
+
+/* ---------- A3 dividers: photo, serif title, part timeline ---------- */
+.reveal section.divider { padding-top: 190px !important; }
+.reveal section.divider h1 { font-family: "Source Serif 4", Georgia, serif; font-weight: 700; font-size: 2.6em; line-height: 1.02; letter-spacing: -.005em; color: #fff !important; max-width: 70%; margin: .25em 0 .3em 0; }
+.reveal section.divider p { color: #E6EEF0; font-size: .88em; max-width: 58%; line-height: 1.35; }
+.reveal section.divider .part { color: $cream; opacity: .9; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; font-size: .5em; }
+.reveal section.divider .bar { display: none; }
+.reveal section.divider .dnum { position: absolute; right: 10px; top: 40px; font-family: "Source Serif 4", Georgia, serif; font-weight: 700; font-size: 520px; line-height: .8; color: transparent; -webkit-text-stroke: 3px rgba(255,255,255,.22); z-index: 0; }
+.reveal section.divider .dtl { position: absolute; left: 30px; right: 30px; top: 690px; height: 90px; }
+.reveal section.divider .dline { position: absolute; left: 0; right: 0; top: 14px; height: 3px; background: rgba(255,255,255,.7); }
+.reveal section.divider .dst { position: absolute; top: 1px; width: 30px; height: 30px; margin-left: -15px; border-radius: 50%; border: 3px solid #fff; background: $teal; box-sizing: border-box; }
+.reveal section.divider .dst.done { background: #fff; }
+.reveal section.divider .dst.on { background: $cream; border-color: $cream; width: 40px; height: 40px; margin-left: -20px; top: -4px; box-shadow: 0 0 0 6px rgba(243,238,228,.25); }
+.reveal section.divider .dsl { position: absolute; top: 46px; font-size: 19px; color: #D7E6E9; white-space: nowrap; transform: translateX(-50%); font-family: "Fira Sans", sans-serif; }
+.reveal section.divider .dsl.left { transform: translateX(-15px); }
+.reveal section.divider .dsl.right { transform: translateX(calc(-100% + 15px)); }
+.reveal section.divider .dsl.on { color: #fff; font-weight: 700; }
+.reveal section.divider .dcred { position: absolute; right: 0; top: 818px; font-size: 13px; color: rgba(255,255,255,.6); font-family: "Fira Sans", sans-serif; }
