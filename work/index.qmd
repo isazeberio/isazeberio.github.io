@@ -16,17 +16,19 @@ title: Research
 
 ## Work in Progress
 
-* What does it take to be European? Conceptions of Europeanness and their political consequences among German citizens *(together with Theresa Kuhn)* [[slides]](../talks/conceptions-europeanness/europeanness_talk.html){target="_blank"}
+* Open in principle, bounded in practice: Citizens' competing conceptions of European identity and their link to the transnational cleavage *(together with Theresa Kuhn)* [[slides]](../talks/conceptions-europeanness/europeanness_talk.html){target="_blank"}
 
-* Who counts as European? A conjoint experiment on European membership criteria *(together with Theresa Kuhn)*
+* Who counts as European? A conjoint experiment on competing conceptions of Europeanness *(together with Theresa Kuhn and Asli Unan)*
 
 * Between inclusion and exclusion: How European identity shapes preferences for intra-EU border and migration policies *(together with Lisa Herbig and Theresa Kuhn)*
 
-* The 'Good' European: The limits of civic inclusion
+* The benefits of being seen as European: Social closeness and welfare priority
+
+* The 'good' European: The limits of civic inclusion
 
 -----
 
-## Talks
+## Presentations
 
 * Spain votes again: The road to the 29 November 2026 general election (University of Amsterdam, 26 November 2026) [[slides]](../talks/spain-votes-again/spain_votes_again.html){target="_blank"}
 
