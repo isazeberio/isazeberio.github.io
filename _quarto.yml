@@ -3,14 +3,17 @@ website:
   title: "Isabela Zeberio"
   description: "Isabela Zeberio, PhD candidate in political science at the University of Amsterdam, researching European identity, public opinion and computational social science."
   site-url: "https://isabelazeberio.com/"
-  image: img/profile_photo.jpg
+  image: img/profile-photo.jpg
+  open-graph: true
+  twitter-card: true
   
-  favicon: img/europe-map.png
+  favicon: img/europe-globe-32.png
+  search: false
   
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
-    logo: /img/europe-map.png
+    logo: /img/europe-globe.svg
     
     # your sub-pages
     left:
@@ -22,12 +25,16 @@ website:
     # your social media handles
     right:
       - icon: fingerprint
+        aria-label: EUDENTIFY project
         href: https://www.eudentify.org/
-      - icon: globe-europe-africa
+      - icon: bluesky
+        aria-label: Bluesky
         href: https://bsky.app/profile/isazeberio.bsky.social
       - icon: linkedin
+        aria-label: LinkedIn
         href: https://www.linkedin.com/in/isabela-zeberio-aguerrevere-b46460227/
       - icon: github
+        aria-label: GitHub
         href: https://github.com/isazeberio
       - icon: envelope
         aria-label: email
@@ -37,15 +44,9 @@ website:
   
 
 # Don't touch unless you know what you are doing :) ------------
-  search: 
-    location: navbar
-    type: textbox
   page-footer: 
-    left: |
-
-    center: |
-
-    right: |
+    left: "© 2026 Isabela Zeberio · Amsterdam"
+    right: "[i.zeberioaguerrevere@uva.nl](mailto:i.zeberioaguerrevere@uva.nl)"
 
 
 project:
@@ -53,6 +54,8 @@ project:
   output-dir: docs
   resources:
     - CNAME
+    - img/bluesky.svg
+    - img/europe-globe-180.png
 
   preview: 
     port: 22222

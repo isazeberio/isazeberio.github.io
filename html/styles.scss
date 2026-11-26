@@ -1,5 +1,17 @@
 /*-- scss:defaults --*/
 
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600;8..60,700&display=swap');
+
+$font-family-sans-serif: "Source Sans 3", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif !default;
+$headings-font-family: "Source Serif 4", Georgia, serif !default;
+$headings-font-weight: 600 !default;
+
+// EU navy + gold, matching the logo
+$navy:      #17324D;
+$navy-link: #1F5C99;
+$gold:      #F6C744;
+$gold-dark: #B8860B;
+
 /* From https://github.com/andrewheiss/ath-quarto/blob/main/html/ath.scss */
 
 $white:    #ffffff !default;
@@ -26,7 +38,7 @@ $green:   #118230 !default;
 $teal:    #068194 !default;
 $cyan:    #3093CF !default;
 
-$primary:   $cyan!default;
+$primary:   $navy !default;
 $secondary: $gray-700 !default;
 $success:   $green !default;
 $info:      $cyan !default;
@@ -38,14 +50,19 @@ $dark:      $black !default;
 
 
 // Links
-$link-color: $primary !default;
+$link-color: $navy-link !default;
 $link-decoration: none !default;
-$link-hover-color: $red !default;
+$link-hover-color: $navy !default;
 $link-hover-decoration: underline !default;
 
 // Footer
-$footer-bg: $gray-900 !default;
-$footer-fg: $gray-300 !default;
+$footer-bg: #ffffff !default;
+$footer-fg: $gray-600 !default;
+
+// Navbar
+$navbar-bg: $navy !default;
+$navbar-fg: #ffffff !default;
+$navbar-hl: $gold !default;
 
 // Inline code
 $code-bg: $gray-200 !default;
@@ -60,6 +77,57 @@ $btn-code-copy-color-active: $orange !default;
 
 
 /*-- scss:rules --*/
+
+// Bluesky butterfly (Quarto 1.6 ships no bi-bluesky icon)
+.bi-bluesky::before {
+    content: "";
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.125em;
+    background-color: currentColor;
+    -webkit-mask: url("/img/bluesky.svg") no-repeat center / contain;
+    mask: url("/img/bluesky.svg") no-repeat center / contain;
+}
+
+.navbar-logo { max-height: 34px; }
+
+// Page title stands out; section headings quieter
+h1.title {
+    font-size: 2.4rem;
+    padding-bottom: .35rem;
+    border-bottom: 3px solid $gold;
+    display: inline-block;
+}
+h2 {
+    font-size: 1.45rem;
+    margin-top: 2.2rem;
+    border-bottom: 1px solid $gray-300;
+    padding-bottom: .3rem;
+    color: $navy;
+}
+
+// Small pill buttons for [DOI] [slides] [replication code]
+a.pill {
+    display: inline-block;
+    font-size: .78em;
+    font-weight: 600;
+    line-height: 1.2;
+    padding: .18em .7em;
+    margin: .15em .15em .15em 0;
+    border: 1px solid $navy;
+    border-radius: 999px;
+    color: $navy;
+    text-decoration: none;
+    white-space: nowrap;
+    &:hover { background: $navy; color: #fff; text-decoration: none; }
+}
+
+// Homepage
+.quarto-about-trestles .about-entity .about-image { border-radius: 10px; }
+.quarto-about-trestles h1.title { border-bottom: 3px solid $gold; }
+
+.nav-footer { border-top: 1px solid $gray-300 !important; font-size: .9em; }
 
 
 .nav-footer {

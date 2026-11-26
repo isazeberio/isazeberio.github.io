@@ -4,19 +4,20 @@ title: Research
 
 ## Publications
 
-* **Zeberio, I.**, Kuhn, T., & Ucar, I. (2026). Filtering out Euroskepticism: Media influence and interpersonal communication in an agent-based model of Brexit opinion dynamics. *European Union Politics*. OnlineFirst. [https://doi.org/10.1177/14651165261424664](https://doi.org/10.1177/14651165261424664) [[replication code]](https://github.com/isazeberio/filtering-out-euroskepticism){target="_blank"}
+* **Zeberio, I.**, Kuhn, T., & Ucar, I. (2026). Filtering out Euroskepticism: Media influence and interpersonal communication in an agent-based model of Brexit opinion dynamics. *European Union Politics*. OnlineFirst.\
+  [DOI](https://doi.org/10.1177/14651165261424664){.pill target="_blank"} [Replication code](https://github.com/isazeberio/filtering-out-euroskepticism){.pill target="_blank"}
 
------
 
 ## Book Reviews
 
-* Zeberio, I. (2025). Transregional Europe by William Outhwaite (Bingley: Emerald Publishing Limited, 2020, ISBN: 978-1-78769-494-1); 152 pp. *JCMS: Journal of Common Market Studies*. [https://doi.org/10.1111/jcms.13729](https://onlinelibrary.wiley.com/doi/10.1111/jcms.13729)
+* Zeberio, I. (2025). Transregional Europe by William Outhwaite (Bingley: Emerald Publishing Limited, 2020, ISBN: 978-1-78769-494-1); 152 pp. *JCMS: Journal of Common Market Studies*.\
+  [DOI](https://doi.org/10.1111/jcms.13729){.pill target="_blank"}
 
------
 
 ## Work in Progress
 
-* Open in principle, bounded in practice: Citizens' competing conceptions of European identity and their link to the transnational cleavage *(together with Theresa Kuhn)* [[slides]](../talks/conceptions-europeanness/europeanness_talk.html){target="_blank"}
+* Open in principle, bounded in practice: Citizens' competing conceptions of European identity and their link to the transnational cleavage *(together with Theresa Kuhn)*\
+  [Slides](../talks/conceptions-europeanness/europeanness_talk.html){.pill target="_blank"}
 
 * Who counts as European? A conjoint experiment on competing conceptions of Europeanness *(together with Theresa Kuhn and Asli Unan)*
 
@@ -26,19 +27,17 @@ title: Research
 
 * The 'good' European: The limits of civic inclusion
 
------
 
 ## Presentations
 
-* Spain votes again: The road to the 29 November 2026 general election (University of Amsterdam, 26 November 2026) [[slides]](../talks/spain-votes-again/spain_votes_again.html){target="_blank"}
+* Spain votes again: The road to the 29 November 2026 general election (University of Amsterdam, 26 November 2026)\
+  [Slides](../talks/spain-votes-again/spain_votes_again.html){.pill target="_blank"}
 
------
 
 ## Teaching Experience
 
 * [Multilevel Politics in the European Union and its Member States](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/116228)
 
------
 
 ## Conferences
 
@@ -48,7 +47,3 @@ title: Research
 * 2026, 2024 ECPR Standing Group on the European Union (ECPR-SGEU)
 * 2023 ODISSEI Conference for Social Sciences in the Netherlands (OCSSN)
 
-```{=html}
-<div style="margin: 30px; text-align: center;">
-</div>
-```
