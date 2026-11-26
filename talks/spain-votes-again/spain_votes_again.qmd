@@ -26,14 +26,14 @@ The road to the 29 November general election<br><br><b style='color:#fff'>Isabel
 <div class="dcred">Photo: Puerta del Sol camp, 2026 — Raystorm, Wikimedia Commons (CC BY-SA 4.0)</div>
 
 
-## {.divider background-color="#0E5E6F" data-background-image="img/dv_p1.jpg" data-background-size="cover"}
+## {.divider background-color="#0E5E6F"}
 
 <div class="part">Part 1</div>
 <h1>How Spaniards vote</h1>
 
 A ballot for a party, not a person, and more elections than planned.
 
-<div class="dtl"><div class="dline"></div><div class="dst on" style="left:0.00%"></div><div class="dsl on left" style="left:0.00%">How Spaniards vote</div><div class="dst " style="left:25.00%"></div><div class="dsl  center" style="left:25.00%">Dictatorship to fragmentation</div><div class="dst " style="left:50.00%"></div><div class="dsl  center" style="left:50.00%">2023 and the players</div><div class="dst " style="left:75.00%"></div><div class="dsl  center" style="left:75.00%">The road to the snap election</div><div class="dst " style="left:100.00%"></div><div class="dsl  right" style="left:100.00%">The debates</div></div><div class="dcred">Photo: 1Veertje, Wikimedia Commons (CC BY-SA 3.0)</div>
+<div class="dnum">01</div><div class="dtl"><div class="dline"></div><div class="dst on" style="left:0.00%"></div><div class="dsl on left" style="left:0.00%">How Spaniards vote</div><div class="dst " style="left:25.00%"></div><div class="dsl  center" style="left:25.00%">Dictatorship to fragmentation</div><div class="dst " style="left:50.00%"></div><div class="dsl  center" style="left:50.00%">2023 and the players</div><div class="dst " style="left:75.00%"></div><div class="dsl  center" style="left:75.00%">The road to the snap election</div><div class="dst " style="left:100.00%"></div><div class="dsl  right" style="left:100.00%">The debates</div></div>
 
 
 ##
@@ -77,14 +77,14 @@ A ballot for a party, not a person, and more elections than planned.
 <div class="src">Source: Ministry of the Interior, historical election results; LOREG.</div>
 
 
-## {.divider background-color="#0E5E6F" data-background-image="img/dv_p2.jpg" data-background-size="cover" data-rail="2.11" data-rail-label="1975"}
+## {.divider background-color="#0E5E6F" data-rail="2.11" data-rail-label="1975"}
 
 <div class="part">Part 2</div>
 <h1>From dictatorship to fragmentation</h1>
 
 A young democracy, thirty years of alternation, then the 2011 earthquake.
 
-<div class="dtl"><div class="dline"></div><div class="dst done" style="left:0.00%"></div><div class="dsl done left" style="left:0.00%">How Spaniards vote</div><div class="dst on" style="left:25.00%"></div><div class="dsl on center" style="left:25.00%">Dictatorship to fragmentation</div><div class="dst " style="left:50.00%"></div><div class="dsl  center" style="left:50.00%">2023 and the players</div><div class="dst " style="left:75.00%"></div><div class="dsl  center" style="left:75.00%">The road to the snap election</div><div class="dst " style="left:100.00%"></div><div class="dsl  right" style="left:100.00%">The debates</div></div><div class="dcred">Photo: Puerta del Sol, May 2011 — Barcex, Wikimedia Commons (CC BY-SA 3.0)</div>
+<div class="dnum">02</div><div class="dtl"><div class="dline"></div><div class="dst done" style="left:0.00%"></div><div class="dsl done left" style="left:0.00%">How Spaniards vote</div><div class="dst on" style="left:25.00%"></div><div class="dsl on center" style="left:25.00%">Dictatorship to fragmentation</div><div class="dst " style="left:50.00%"></div><div class="dsl  center" style="left:50.00%">2023 and the players</div><div class="dst " style="left:75.00%"></div><div class="dsl  center" style="left:75.00%">The road to the snap election</div><div class="dst " style="left:100.00%"></div><div class="dsl  right" style="left:100.00%">The debates</div></div>
 
 
 ## {data-rail="2.11" data-rail-label="Nov 1975"}
@@ -169,14 +169,14 @@ A young democracy, thirty years of alternation, then the 2011 earthquake.
 <div class="src">Source: Ministry of the Interior via Wikipedia, 'Elections in Spain' (Congress vote shares 1977–2023). Two largest parties: UCD + PSOE until 1979, PSOE + PP (AP) from 1982.</div>
 
 
-## {.divider background-color="#0E5E6F" data-background-image="img/dv_p3.jpg" data-background-size="cover" data-rail="43.27" data-rail-label="Jul 2023"}
+## {.divider background-color="#0E5E6F" data-rail="43.27" data-rail-label="Jul 2023"}
 
 <div class="part">Part 3</div>
 <h1>The last election and the players</h1>
 
 July 2023, the 179, and who is on the ballot now.
 
-<div class="dtl"><div class="dline"></div><div class="dst done" style="left:0.00%"></div><div class="dsl done left" style="left:0.00%">How Spaniards vote</div><div class="dst done" style="left:25.00%"></div><div class="dsl done center" style="left:25.00%">Dictatorship to fragmentation</div><div class="dst on" style="left:50.00%"></div><div class="dsl on center" style="left:50.00%">2023 and the players</div><div class="dst " style="left:75.00%"></div><div class="dsl  center" style="left:75.00%">The road to the snap election</div><div class="dst " style="left:100.00%"></div><div class="dsl  right" style="left:100.00%">The debates</div></div><div class="dcred">Photo: Congreso de los Diputados — Barcex, Wikimedia Commons (CC BY-SA 3.0)</div>
+<div class="dnum">03</div><div class="dtl"><div class="dline"></div><div class="dst done" style="left:0.00%"></div><div class="dsl done left" style="left:0.00%">How Spaniards vote</div><div class="dst done" style="left:25.00%"></div><div class="dsl done center" style="left:25.00%">Dictatorship to fragmentation</div><div class="dst on" style="left:50.00%"></div><div class="dsl on center" style="left:50.00%">2023 and the players</div><div class="dst " style="left:75.00%"></div><div class="dsl  center" style="left:75.00%">The road to the snap election</div><div class="dst " style="left:100.00%"></div><div class="dsl  right" style="left:100.00%">The debates</div></div>
 
 
 ## {data-rail="43.27" data-rail-label="23 Jul 2023"}
@@ -266,14 +266,14 @@ July 2023, the 179, and who is on the ballot now.
 <div class="credit">Portraits: Wikimedia Commons — Parlament de Catalunya; Marcpuigperez (CC BY-SA 4.0); EAJ-PNV Gipuzkoa (CC BY-SA 2.0); Sinn Féin (CC BY 2.0).</div>
 
 
-## {.divider background-color="#0E5E6F" data-background-image="img/dv_p4.jpg" data-background-size="cover" data-rail="52.51" data-rail-label="Jun 2025"}
+## {.divider background-color="#0E5E6F" data-rail="52.51" data-rail-label="Jun 2025"}
 
 <div class="part">Part 4</div>
 <h1>The road to the snap election</h1>
 
 From losing the majority to a campaign in mourning.
 
-<div class="dtl"><div class="dline"></div><div class="dst done" style="left:0.00%"></div><div class="dsl done left" style="left:0.00%">How Spaniards vote</div><div class="dst done" style="left:25.00%"></div><div class="dsl done center" style="left:25.00%">Dictatorship to fragmentation</div><div class="dst done" style="left:50.00%"></div><div class="dsl done center" style="left:50.00%">2023 and the players</div><div class="dst on" style="left:75.00%"></div><div class="dsl on center" style="left:75.00%">The road to the snap election</div><div class="dst " style="left:100.00%"></div><div class="dsl  right" style="left:100.00%">The debates</div></div><div class="dcred">Photo: altar for Maricarmen, Puerta del Sol, Oct 2026 — MiguelAlanCS, Wikimedia Commons (CC BY-SA 4.0)</div>
+<div class="dnum">04</div><div class="dtl"><div class="dline"></div><div class="dst done" style="left:0.00%"></div><div class="dsl done left" style="left:0.00%">How Spaniards vote</div><div class="dst done" style="left:25.00%"></div><div class="dsl done center" style="left:25.00%">Dictatorship to fragmentation</div><div class="dst done" style="left:50.00%"></div><div class="dsl done center" style="left:50.00%">2023 and the players</div><div class="dst on" style="left:75.00%"></div><div class="dsl on center" style="left:75.00%">The road to the snap election</div><div class="dst " style="left:100.00%"></div><div class="dsl  right" style="left:100.00%">The debates</div></div>
 
 
 ## {data-rail="52.51" data-rail-label="12 Jun 2025"}

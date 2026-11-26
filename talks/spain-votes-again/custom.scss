@@ -212,7 +212,7 @@ $presentation-h2-font-size: 1.3em;
 
 /* ---------- A3 dividers: photo, serif title, part timeline ---------- */
 .reveal section.divider { padding-top: 190px !important; }
-.reveal section.divider h1 { font-family: "Source Serif 4", Georgia, serif; font-weight: 700; font-size: 2.6em; line-height: 1.02; letter-spacing: -.005em; color: #fff !important; max-width: 70%; margin: .25em 0 .3em 0; }
+.reveal section.divider h1 { font-family: "Source Serif 4", Georgia, serif; font-weight: 700; font-size: 2.6em; line-height: 1.02; letter-spacing: -.005em; color: #fff !important; max-width: 60%; margin: .25em 0 .3em 0; }
 .reveal section.divider p { color: #E6EEF0; font-size: .88em; max-width: 58%; line-height: 1.35; }
 .reveal section.divider .part { color: $cream; opacity: .9; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; font-size: .5em; }
 .reveal section.divider .bar { display: none; }
