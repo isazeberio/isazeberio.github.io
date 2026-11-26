@@ -1,5 +1,5 @@
 ---
-pagetitle: "What Does It Take to Be European?"
+pagetitle: "Open in principle, bounded in practice"
 bibliography: references.bib
 csl: apa.csl
 format:
@@ -20,12 +20,12 @@ editor:
     wrap: sentence
 ---
 
-## What does it take to be European? {.title-light background-color="#fbfaf7"}
+## Open in principle, bounded in practice {.title-light background-color="#fbfaf7"}
 
 ```{=html}
 <div style="display:flex; align-items:flex-start; gap:40px;">
   <div style="flex:1;">
-    <p class="title-sub">Conceptions of Europeanness and their political consequences among German citizens</p>
+    <p class="title-sub">Citizens' competing conceptions of European identity and their link to the transnational cleavage</p>
     <p style="color:#2f6f9f; margin-top:1.4em;">
       Isabela Zeberio &middot; Theresa Kuhn<br>
       <span style="font-size:.85em;">University of Amsterdam</span><br>

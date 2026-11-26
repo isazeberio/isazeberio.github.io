@@ -1,7 +1,8 @@
 # website settings
 website:
-  title: "Home"  # Your name
-  description: ""   # A brief slogan (optional)
+  title: "Isabela Zeberio"
+  description: "Isabela Zeberio, PhD candidate in political science at the University of Amsterdam, researching European identity, public opinion and computational social science."
+  site-url: "https://isazeberio.github.io/"
   image: img/profile_photo.jpg
   
   favicon: img/europe-map.png
