@@ -8,7 +8,7 @@ about:
   image-width: 17em
 ---
 
-My name is Isabela Zeberio (she/her), a social scientist with a passion for exploring identities, cultural evolution, and human interactions through computational methodology.
+My name is Isabela Zeberio (she/her), a social scientist interested in exploring identities, cultural evolution, and human interactions through computational methodology.
 
 **Research focus.** I am a fourth-year PhD candidate at the University of Amsterdam, actively involved in the [EUDENTIFY](https://www.eudentify.org/) research project, which studies the long-term trends and causal mechanisms in the link between European Union institution building and European identity formation.
 
